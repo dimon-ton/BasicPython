@@ -1,0 +1,2 @@
+# BasicPython
+เรียนภาษา python
